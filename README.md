@@ -16,10 +16,6 @@ The **Quantum Einstein Equation** is a proposed quantization of the classical Ei
 
 This equation aims to unify general relativity and quantum mechanics by quantizing both the geometry of spacetime and the matter-energy content. By promoting the classical tensors to operators acting on a quantum state, it seeks to provide a foundation for a quantum theory of gravity.
 
-
-This equation aims to unify general relativity and quantum mechanics by quantizing both the geometry of spacetime and the matter-energy content. By promoting the classical tensors to operators acting on a quantum state, it seeks to provide a foundation for a quantum theory of gravity.
-
-
 This equation I've written is a prime example of a fundamental misunderstanding of both general relativity and quantum mechanics. Let's dissect the numerous issues it presents.
 
 First, slapping a "hat" on the Einstein tensor \( G_{\mu\nu} \) and the stress-energy tensor \( T_{\mu\nu} \) to denote them as operators is not only naive but also incorrect. In quantum mechanics, operators act on elements of a Hilbert space, typically state vectors or wavefunctions. However, \( G_{\mu\nu} \) is a geometric object derived from the spacetime metric \( g_{\mu\nu} \) and its derivatives—it encapsulates the curvature of spacetime due to gravity. Similarly, \( T_{\mu\nu} \) describes the distribution and flow of energy and momentum in spacetime.
